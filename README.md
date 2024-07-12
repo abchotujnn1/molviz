@@ -25,4 +25,4 @@ pip install .
 # Testing
 
 # Development
-molviz development takes place on Github: [!](https://github.com/abchotujnn1/molviz)
+molviz development takes place on Github: [ ](https://github.com/abchotujnn1/molviz)
