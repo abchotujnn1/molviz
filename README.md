@@ -20,6 +20,17 @@ pip install -r requirements.txt
 pip install .
 ```
 
+::::{grid} 1 2 3 3
+:gutter: 2
+
+:::{grid-item-card} Installation {octicon}`plug;1em;`
+:link: installation
+:link-type: doc
+
+New to _scvi-tools_? Check out the installation guide.
+:::
+::::
+
 # Citing
 
 # Testing
