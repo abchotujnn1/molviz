@@ -49,3 +49,31 @@ Developer tutorials help you build new probabilistic models.
 Find a bug? Interested in improving scvi-tools? Checkout our GitHub for the latest developments.
 :::
 ::::
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+  <div style="border: 1px solid #ccc; padding: 10px;">
+    <h3>Item 1</h3>
+    <p>This is the first item in the grid.</p>
+  </div>
+  <div style="border: 1px solid #ccc; padding: 10px;">
+    <h3>Item 2</h3>
+    <p>This is the second item in the grid.</p>
+  </div>
+  <div style="border: 1px solid #ccc; padding: 10px;">
+    <h3>Item 3</h3>
+    <p>This is the third item in the grid.</p>
+  </div>
+  <div style="border: 1px solid #ccc; padding: 10px;">
+    <h3>Item 4</h3>
+    <p>This is the fourth item in the grid.</p>
+  </div>
+  <div style="border: 1px solid #ccc; padding: 10px;">
+    <h3>Item 5</h3>
+    <p>This is the fifth item in the grid.</p>
+  </div>
+  <div style="border: 1px solid #ccc; padding: 10px;">
+    <h3>Item 6</h3>
+    <p>This is the sixth item in the grid.</p>
+  </div>
+</div>
+
